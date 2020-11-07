@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there :wave:
+
+I'm Christoher _[ **kris**-tuh-fer ]_ a professional nerd. If I'm not in the _"office"_, I'm in the :evergreen_tree: :hiking_boot: with my :dog2:
+
+* :fire: My passion is the entire software development cycle. Not just writting :fountain_pen: code... 
+* :telescope: I’m currently working on unorthodox ways of hosting web application on the cloud
+* :speech_balloon: Ask me about my martial arts background :martial_arts_uniform: :boxing_glove:
+
+---
+
+If you want _**general or technical support**_ :hammer: for your project, please use the respective issue tracker in the repositories.
+
+If you want to contact me :mailbox_with_mail: directly for _**personal or sensitive requests**_, you can do so via
+  * Linkedin: https://www.linkedin.com/in/christophermcarthur1996/
+  * or email (my email-address can be found in my GitHub profile)
+
+> :warning: _Note_: I do use **this**, my personal account, for work related matters. If ever there's an official request please use my work email which you should already have access to.
 
 <!--
 **prince-chrismc/prince-chrismc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +29,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+1. :ear: business requirements
+2. :alembic: desinging a tailored solution
+3. :building_construction: CI/CD infrastucture
+4. :package: software
+5. :rocket: shipping release often
+6. :bug: squashing
+7. :sos: supporting costumers
+8. :test_tube: measuring response
+9. :ear: to feedback
 -->
