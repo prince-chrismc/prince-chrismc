@@ -4,9 +4,7 @@ I'm Christoher _[ **kris**-tuh-fer ]_ a professional nerd. :nerd_face: If I'm no
 
 * :fire: My passion is the entire software development cycle. Not just writting :fountain_pen: code 
 - :dancers: I’m contributing to [@conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
-* :telescope: I’m currently working on
-   * a multi-cloud deployment leveraging DevOps and Infrastructure as Code
-   * generic JWT for any C++ JSON library
+* :telescope: I’m currently working on [@Thalhammer/jwt-cpp](https://github.com/Thalhammer/jwt-cpp)
 * :speech_balloon: Ask me about my martial arts background :martial_arts_uniform: :boxing_glove:
 
 ---
