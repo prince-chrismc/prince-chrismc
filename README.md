@@ -15,6 +15,8 @@ If you want to contact me :mailbox_with_mail: directly for _**personal or sensit
   * Linkedin: https://www.linkedin.com/in/christophermcarthur1996/
   * or email (my email-address can be found in my GitHub profile)
 
+> :warning: _Note_: I do use **this**, my personal account, for work related matters. If ever there's an official request please use my work email which you should already have access to.
+
 <!--
 **prince-chrismc/prince-chrismc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
