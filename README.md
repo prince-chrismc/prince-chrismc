@@ -3,7 +3,7 @@
 I'm Christopher _[ **kris**-tuh-fer ]_ a professional nerd :nerd_face:. If I'm not in the _"office"_, I'm in the woods :evergreen_tree: :mountain_snow: hiking :hiking_boot: with my dog :dog2:
 
 * :fire: My passion is the entire software development cycle. Not just writting :fountain_pen: code 
-* :dancers: I’m contributing to [@conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+* :dancers: I’m contributing to [@conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) and [@pyrsia/pyrsia](https://github.com/pyrsia/pyrsia)
 * :telescope: I’m currently working on [@Thalhammer/jwt-cpp](https://github.com/Thalhammer/jwt-cpp)
 * :speech_balloon: Ask me about my martial arts background :martial_arts_uniform: :boxing_glove:
 
@@ -13,7 +13,7 @@ If you want _**general or technical support**_ :hammer: for your project, please
 
 If you want to contact me :mailbox_with_mail: directly for _**personal or sensitive requests**_, you can do so via
   * Linkedin: https://www.linkedin.com/in/christophermcarthur1996/
-  * or email (my email-address can be found in my GitHub profile)
+  * or email (my email can be found in my GitHub profile)
 
 > :warning: _Note_: I do use **this**, my personal account, for work related matters. If ever there's an official request please use my work email which you should already have access to.
 
