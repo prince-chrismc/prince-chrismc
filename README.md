@@ -3,8 +3,11 @@
 I'm Christopher _[ **kris**-tuh-fer ]_ a professional nerd :nerd_face:. If I'm not in the _"office"_, I'm in the woods :evergreen_tree: :mountain_snow: hiking :hiking_boot: with my dog :dog2:
 
 * :fire: My passion is the entire software development cycle. Not just writting :fountain_pen: code 
-* :dancers: I’m contributing to [@conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) and [@pyrsia/pyrsia](https://github.com/pyrsia/pyrsia)
-* :telescope: I’m currently working on [@Thalhammer/jwt-cpp](https://github.com/Thalhammer/jwt-cpp)
+* :dancers: I’m contributing to
+  - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+  - [pyrsia/pyrsia](https://github.com/pyrsia/pyrsia)
+  - [Thalhammer/jwt-cpp](https://github.com/Thalhammer/jwt-cpp)
+* :telescope: I’m currently working on some helpful GitHub Actions like [this](https://github.com/prince-chrismc/count-used-by-action)
 * :speech_balloon: Ask me about my martial arts background :martial_arts_uniform: :boxing_glove:
 
 ---
