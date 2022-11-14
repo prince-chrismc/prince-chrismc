@@ -15,6 +15,8 @@ If you want _**general or technical support**_ :hammer: for your project, please
 
 If you want to contact me :mailbox_with_mail: directly for _**personal or sensitive requests**_, you can do so via
   * Linkedin: https://www.linkedin.com/in/christophermcarthur1996/
+  * Twitter: https://twitter.com/prince_chrismc
+  * Slack: https://cpplang.slack.com/team/U017JHD34KB
   * or email (my email can be found in my GitHub profile)
 
 > :warning: _Note_: I do use **this**, my personal account, for work related matters. If ever there's an official request please use my work email which you should already have access to.
